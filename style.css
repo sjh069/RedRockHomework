@@ -1,0 +1,62 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.navleft {
+    float: left;
+}
+
+.navright {
+    float: right;
+}
+
+.nav a {
+    text-decoration: none;
+    color: black;
+    margin: 10px;
+    width: 30px;
+    height: 20px;
+}
+
+.nav a:hover {
+    background-color: #369;
+    color: white;
+}
+
+.clear {
+    clear: both
+}
+
+.main {
+    text-align: center;
+}
+
+.pic {
+    text-align: center;
+}
+
+.pic baidu1 {
+    width: 200px;
+    height: 100px;
+}
+
+.search {
+    text-align: center;
+    width: 100%;
+    height: 150px;
+}
+
+.foot {
+    position: fixed;
+    bottom: 0px
+}
+
+.foot a {
+    text-decoration: none;
+    color: black;
+}
+
+.erweima {
+    text-align: center;
+}
